@@ -10,7 +10,7 @@ nav{
     background-color: rgb(249, 248, 253);
    
 }
-nav ul{
+nav ul li{
     list-style: none;
 }
 nav ul li img{
